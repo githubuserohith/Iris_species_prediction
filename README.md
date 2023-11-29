@@ -2,4 +2,4 @@
 
 
 
-[Streamlit URL:](https://speciespredictor.streamlit.app/)
+[Click here: Streamlit URL](https://speciespredictor.streamlit.app/)
